@@ -32,15 +32,7 @@
 
 ###
 
-<h3 align="left">🧑‍💻 Contact Me</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.notion.so/genjiboy0312" target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link" />
-  </a>
-</div>
+<h3 align="left">🧑‍💻 Contact me</h3>
 
 ###
 
@@ -61,14 +53,10 @@
 
 ###
 
-<h3 align="center">🎮 Pacman Contribution Graph</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/github-contribution-grid-snake.svg" />
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>

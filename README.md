@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://45.media.tumblr.com/a9202c7b16efcd02babcbf3e3ae42bd4/tumblr_o2nfgmBP9T1tqvsfso1_500.gif" />
+<img align="right" height="250" src="https://45.media.tumblr.com/a9202c7b16efcd02babcbf3e3ae42bd4/tumblr_o2nfgmBP9T1tqvsfso1_500.gif" />
 
 ###
 
@@ -52,8 +52,8 @@
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=genjiboy0312&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genjiboy0312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=genjiboy0312&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="130" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genjiboy0312&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=false" height="130" alt="languages graph" />
 </div>
 
 ###

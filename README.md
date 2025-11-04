@@ -61,5 +61,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/snake-contribution-graph.svg">
   <img alt="snake contribution graph" src="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/snake-contribution-graph.svg">
 </picture>
+![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=dark)
 
 ###

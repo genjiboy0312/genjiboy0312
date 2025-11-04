@@ -1,47 +1,68 @@
+<br clear="both">
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&height=100&section=header&reversal=true&text=Hi%20%F0%9F%98%8A&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+</div>
+
+###
+
+<h3 align="left">🛠️ Tech Stacks</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left">🧑‍💻 Contact me</h3>
+
+###
+
+<div align="left">
+  <a href="https://genjiboy0312.notion.site" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link" />
+  </a>
+</div>
+
+<br clear="both">
+
+<img align="right" height="200" src="https://i.namu.wiki/i/fvVnmsyftLm5YFr1h8BnRt4J_-UT_UA9lUYdhYCic6160D_yY2AyYcP6LflKz50j_IyPCJXSP1D6SpfHSX-ZVQ.gif"  />
+
+###
+
+<h3 align="left">🏅 Stats</h3>
+
+###
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=120&text=Hi%20😊&animation=twinkling&fontColor=ffffff&fontSize=50" />
+  <img src="https://github-readme-stats.vercel.app/api?username=genjiboy0312&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genjiboy0312&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2><br>
-  <div style="text-align: left;">
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white">
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-    <br/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  </div>
-</div>
+###
 
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2><br>
-  <div style="text-align: left;">
-    <a href="https://genjiboy.notion.site/4d75241c44104e1aaaa4e4a1778e8e7b?source=copy_link">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://genjiboy.notion.site/4d75241c44104e1aaaa4e4a1778e8e7b?source=copy_link">
-    </a>
-  </div><br>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/pacman-contribution-graph.svg">
+</picture>
 
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
-  <div align="center">
-    <!-- GitHub Stats (Dracula Theme) -->
-    <img src="https://github-readme-stats.vercel.app/api?username=genjiboy0312&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
-    <!-- Most Used Languages (Dracula Theme) -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=genjiboy0312&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  </div>
-  <br clear="both">
-
-  <!-- Pac-Man Animation -->
-  <div align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/pacman-contribution-graph-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/pacman-contribution-graph.svg">
-      <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/genjiboy0312/genjiboy0312/output/pacman-contribution-graph.svg">
-    </picture>
-  </div>
-</div>
+###

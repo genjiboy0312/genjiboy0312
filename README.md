@@ -36,6 +36,12 @@
 
 ###
 
+<div align="left">
+  <a href="https://genjiboy0312.notion.site" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Link" />
+  </a>
+</div>
+
 <br clear="both">
 
 <img align="right" height="200" src="https://i.namu.wiki/i/fvVnmsyftLm5YFr1h8BnRt4J_-UT_UA9lUYdhYCic6160D_yY2AyYcP6LflKz50j_IyPCJXSP1D6SpfHSX-ZVQ.gif"  />
